@@ -52,7 +52,7 @@
     //用户的交互性  如果设为NO 那么就不能得到响应
     scroll.userInteractionEnabled=YES;
     //重要！！！偏移量
-    scroll.contentOffset=CGPointMake(374, 0);
+   // scroll.contentOffset=CGPointMake(374, 0);
     //可以让scrollview里面的内容位置发生变化
     
     
